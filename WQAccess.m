@@ -3798,7 +3798,7 @@ WQMeasureResult wq_measure_tree(NSString *dir, WQScanCancellation *cancellation,
 
     NSMutableArray<NSString *> *pending = [NSMutableArray arrayWithObject:dir];
     unsigned long long total = 0;
-    BOOL limited = NO;
+    __block BOOL limited = NO;
     NSUInteger grantTries = 0;
     while (pending.count) {
         if (cancellation.isCancelled) return WQMeasureResultCancelled;
