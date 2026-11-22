@@ -1,0 +1,32 @@
+name: Build WQFiles IPA
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build-ipa:
+    runs-on: macos-26
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Inspect Xcode and iOS SDK
+        run: |
+          xcodebuild -version
+          xcrun --sdk iphoneos --show-sdk-version
+          xcrun --sdk macosx --show-sdk-version
+
+      - name: Run tests and build WQFiles.ipa
+        run: |
+          chmod +x build.sh tests/*.sh
+          bash build.sh
+
+      - name: Upload WQFiles.ipa artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: WQFiles-ipa
+          path: WQFiles.ipa
+          if-no-files-found: error
