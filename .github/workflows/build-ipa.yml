@@ -5,12 +5,17 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+concurrency:
+  group: build-ipa-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
 jobs:
   build-ipa:
     runs-on: macos-26
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
@@ -21,8 +26,11 @@ jobs:
           xcodebuild -version
           xcrun --sdk iphoneos --show-sdk-version
           xcrun --sdk macosx --show-sdk-version
+          sysctl -n hw.ncpu
 
       - name: Run tests and build WQFiles.ipa
+        env:
+          WQ_TEST_TIMEOUT: "120"
         run: |
           set -o pipefail
           chmod +x build.sh tests/*.sh

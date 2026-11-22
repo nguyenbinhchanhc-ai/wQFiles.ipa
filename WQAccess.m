@@ -2680,7 +2680,7 @@ static NSArray<NSMutableDictionary<NSString *, NSNumber *> *> *wq_scan_children(
     // A full scan the user agreed to wait for uses all but two cores; the
     // short incremental scans stay at half the cores.
     size_t workers = allCores ? (size_t)MAX((NSUInteger)2, MIN((NSUInteger)8, cores > 2 ? cores - 2 : 1))
-                              : (size_t)MAX((NSUInteger)1, MIN((NSUInteger)4, cores / 2));
+                              : (size_t)MAX((NSUInteger)2, MIN((NSUInteger)4, cores / 2));
     __block _Atomic BOOL abandoned = NO;
     dispatch_apply(workers, dispatch_get_global_queue(qos, 0), ^(size_t __unused w) {
         fsid_t id = fsid;
