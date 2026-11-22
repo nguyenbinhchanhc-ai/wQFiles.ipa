@@ -1,0 +1,45 @@
+
+== WQCoreTests ==
+All WQCore regression tests passed.
+
+== WQAccessSafetyTests ==
+PASS: two identifier lines give nothing
+PASS: empty identifier gives nothing
+PASS: identifier with spaces gives nothing
+
+== WQAccessMutationTests ==
+PASS: unavailable inode probe is failure, not silent fixed-range success
+PASS: explicit small bound still supports successful empty enumeration
+PASS: overflowing scan bound is rejected before work dispatch
+
+== WQAccessTreeTests ==
+PASS: move regular aside after backup
+PASS: write temp sentinel
+PASS: regular delete keeps a post-backup replacement
+
+== WQAccessMeasureTests ==
+PASS: unreadable subtree marks the whole measurement limited
+PASS: limited measurement still reports the readable bytes
+All WQAccess measure regression tests passed.
+
+== WQAccessCopyTests ==
+PASS: existing destination refused up front
+PASS: cancelled tree copy publishes nothing and cleans up
+PASS: uncancelled tree copy with a cancel check succeeds
+
+== WQAccessScanTests ==
+PASS: rapid resume joins the replacement, never the stopping worker
+PASS: stopping worker cannot republish stale results
+All WQAccess scan lifecycle tests passed.
+
+== WQScanRecoveryTests ==
+PASS: cancel can release a paused worker
+PASS: foreground releases scan gate
+All scan recovery tests passed.
+
+== WQScanInodeCheckpointTests ==
+2026-11-22 12:38:46.751 WQScanInodeCheckpointTests[1501:7872] [wqfiles] scan: resuming saved inode range at 32769
+PASS: resume merges hits without omission or double counting
+PASS: committed prefix is not re-executed
+TIMEOUT: WQScanInodeCheckpointTests did not finish within 900s (last phase above)
+preflight failed: /Users/runner/work/wQFiles.ipa/wQFiles.ipa/tests/run_all_tests.sh (no IPA written)

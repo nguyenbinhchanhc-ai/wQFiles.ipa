@@ -1,0 +1,76 @@
+2026-11-22 12:38:37.972 WQAccessCopyTests[1340:7347] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/destination-file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/Backups/20261122-123837-970-1/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/destination-file
+2026-11-22 12:38:37.980 WQAccessCopyTests[1340:7347] [wqfiles] copy: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/src/child -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/dst/child: The file “child” couldn’t be opened because there is no such file.
+2026-11-22 12:38:37.980 WQAccessCopyTests[1340:7347] [wqfiles] copy: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/src -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/dst (1 items) with errors
+2026-11-22 12:38:37.982 WQAccessCopyTests[1340:7347] [wqfiles] copy: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/src -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/dst (1 items) OK
+2026-11-22 12:38:37.986 WQAccessCopyTests[1340:7347] [wqfiles] copy: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/src -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/dst (1 items) OK
+2026-11-22 12:38:37.992 WQAccessCopyTests[1340:7347] [wqfiles] copy: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/src -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/dst (2 items) OK
+2026-11-22 12:38:37.995 WQAccessCopyTests[1340:7347] [wqfiles] mkdir: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-85E333C2-267E-4264-A705-70BFC2AF20CD -> OK
+2026-11-22 12:38:38.000 WQAccessCopyTests[1340:7347] [wqfiles] copy: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/tree-src -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-85E333C2-267E-4264-A705-70BFC2AF20CD (2 items) OK
+2026-11-22 12:38:38.001 WQAccessCopyTests[1340:7347] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-85E333C2-267E-4264-A705-70BFC2AF20CD -> published: OK
+2026-11-22 12:38:38.001 WQAccessCopyTests[1340:7347] [wqfiles] mkdir: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-3DD86DE2-61FE-4689-AFA3-18F04A9EADD4 -> OK
+2026-11-22 12:38:38.002 WQAccessCopyTests[1340:7347] [wqfiles] copy: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/tree-src/a -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-3DD86DE2-61FE-4689-AFA3-18F04A9EADD4/a: File exists (errno 17)
+2026-11-22 12:38:38.004 WQAccessCopyTests[1340:7347] [wqfiles] copy: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/tree-src -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-3DD86DE2-61FE-4689-AFA3-18F04A9EADD4 (2 items) with errors
+2026-11-22 12:38:38.004 WQAccessCopyTests[1340:7347] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-3DD86DE2-61FE-4689-AFA3-18F04A9EADD4 -> OK
+2026-11-22 12:38:38.005 WQAccessCopyTests[1340:7347] [wqfiles] mkdir: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-B6A954AA-84B8-4657-9030-F0100C7A7BA8 -> OK
+2026-11-22 12:38:38.007 WQAccessCopyTests[1340:7347] [wqfiles] copy: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/tree-src -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-B6A954AA-84B8-4657-9030-F0100C7A7BA8 (2 items) OK
+2026-11-22 12:38:38.007 WQAccessCopyTests[1340:7347] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-B6A954AA-84B8-4657-9030-F0100C7A7BA8 -> taken: File exists (errno 17)
+2026-11-22 12:38:38.008 WQAccessCopyTests[1340:7347] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-B6A954AA-84B8-4657-9030-F0100C7A7BA8 -> OK
+2026-11-22 12:38:38.008 WQAccessCopyTests[1340:7347] [wqfiles] mkdir: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-D0841AE5-F6D4-4B90-9AEE-4E58EAB53320 -> OK
+2026-11-22 12:38:38.010 WQAccessCopyTests[1340:7347] [wqfiles] copy: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/tree-src -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-D0841AE5-F6D4-4B90-9AEE-4E58EAB53320 (2 items) with errors
+2026-11-22 12:38:38.011 WQAccessCopyTests[1340:7347] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-D0841AE5-F6D4-4B90-9AEE-4E58EAB53320 -> OK
+2026-11-22 12:38:38.012 WQAccessCopyTests[1340:7347] [wqfiles] mkdir: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-319CD3AF-1EC9-4531-82E0-707645EE5CE8 -> OK
+2026-11-22 12:38:38.016 WQAccessCopyTests[1340:7347] [wqfiles] copy: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/tree-src -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-319CD3AF-1EC9-4531-82E0-707645EE5CE8 (2 items) OK
+2026-11-22 12:38:38.016 WQAccessCopyTests[1340:7347] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessCopyTests-84BE79AC-F8A8-4024-B9AE-67726D5B49BF/.wq-new-319CD3AF-1EC9-4531-82E0-707645EE5CE8 -> late: OK
+PASS: create temp tree
+PASS: write temp file
+PASS: identical-path copy preserves source
+PASS: create hardlink alias
+PASS: hardlink self-copy preserves both links
+PASS: create symlink alias
+PASS: symlink destination alias self-copy refused
+PASS: symlink source refused safely
+PASS: remove alias fixture
+PASS: write temp file
+PASS: normal staged local copy replaces destination
+PASS: write temp file
+PASS: streamed replacement refuses a changed destination
+PASS: streamed replacement accepts the approved version
+PASS: create temp tree
+PASS: write temp file
+PASS: directory destination is preserved
+PASS: create FIFO copy source
+PASS: special-file copy fails without blocking or removing destination
+PASS: create temp tree
+PASS: create temp tree
+PASS: write temp file
+PASS: write temp file
+PASS: old destination exists before copy attempt
+PASS: inject copy failure by removing source
+PASS: failed child copy keeps previous destination
+PASS: restore fixture source
+PASS: old destination survives until completed staging
+PASS: completed child atomically replaces old destination
+PASS: create temp tree
+PASS: write temp file
+PASS: create temp tree
+PASS: write temp file
+PASS: directory replacement installs complete subtree rather than merging
+PASS: successful copy removes private staging artifacts
+PASS: same-tree copy refused
+PASS: descendant copy refused before recursive staging
+PASS: create tree symlink child
+PASS: tree copy preserves symlink item without following it
+PASS: copied symlink remains a symlink
+PASS: create temp tree
+PASS: write temp file
+PASS: write temp file
+PASS: tree copy publishes the complete folder
+PASS: write temp file
+PASS: competing child fails the copy and nothing is published
+PASS: failed tree copy removes its private staging folder
+PASS: create temp tree
+PASS: write temp file
+PASS: publication never replaces an item that appeared at the destination
+PASS: existing destination refused up front
+PASS: cancelled tree copy publishes nothing and cleans up
+PASS: uncancelled tree copy with a cancel check succeeds

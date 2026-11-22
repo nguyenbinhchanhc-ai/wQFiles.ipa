@@ -1,0 +1,47 @@
+2026-11-22 12:38:39.364 WQAccessScanTests[1352:7386] [wqfiles] scan: result started before a refresh not kept
+2026-11-22 12:38:39.365 WQAccessScanTests[1352:7388] [wqfiles] scan: result started before a refresh not kept
+2026-11-22 12:38:39.470 WQAccessScanTests[1352:7385] [wqfiles] scan: full scan of second waits for the running one
+2026-11-22 12:38:39.940 WQAccessScanTests[1352:7388] [wqfiles] scan: full scan of third waits for the running one
+2026-11-22 12:38:40.199 WQAccessScanTests[1352:7382] [wqfiles] scan: full scan stopped
+2026-11-22 12:38:40.214 WQAccessScanTests[1352:7382] [wqfiles] label: LaunchServices API id for 4CE791DB-6B04-4A39-8F59-AF32BA61D494 belongs to an earlier folder; not used
+2026-11-22 12:38:40.214 WQAccessScanTests[1352:7382] [wqfiles] label: LaunchServices API id for 4CE791DB-6B04-4A39-8F59-AF32BA61D494 belongs to an earlier folder; not used
+2026-11-22 12:38:40.793 WQAccessScanTests[1352:7388] [wqfiles] scan: result started before a refresh not kept
+PASS: two tasks can share an index worker
+PASS: pausing one task leaves the other task's worker running
+PASS: last waiter leaving stops the worker at its next checkpoint
+PASS: rapid resume cannot join a worker already stopping
+PASS: invalidated unused worker cannot hold the full-scan gate
+PASS: first worker started
+PASS: post-refresh worker waits for the detached one instead of overlapping
+PASS: both callers finish
+PASS: pre-refresh caller keeps its own result
+PASS: post-refresh caller gets a fresh generation
+PASS: slot caches the fresh result, not the stale one
+PASS: stale worker started
+PASS: stale worker finished
+PASS: stale worker result not reused after refresh
+PASS: current result reused within the TTL
+PASS: first full scan acquires the gate
+PASS: second full scan waits while the first runs
+PASS: a cancelled caller stops waiting for the gate
+PASS: Stop addresses the running scan
+PASS: next full scan starts only after the first ended
+PASS: ended scan's token cleared
+PASS: create label fixture
+PASS: fixture identity readable
+PASS: cached id used for the same folder
+PASS: replace folder at the same path
+PASS: cached id rejected for a replaced folder
+PASS: remove replacement
+PASS: cached id rejected for a missing folder
+PASS: restore original folder
+PASS: unbound entry binds on first use
+PASS: first use recorded the identity
+PASS: refresh drops the API label cache
+PASS: no stale id after refresh
+PASS: worker started before pause
+PASS: paused task releases its shared worker demand
+PASS: replacement waits for old worker to checkpoint and exit
+PASS: rapid resume joins the replacement, never the stopping worker
+PASS: stopping worker cannot republish stale results
+All WQAccess scan lifecycle tests passed.

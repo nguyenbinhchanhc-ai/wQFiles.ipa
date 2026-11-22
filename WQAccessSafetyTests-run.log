@@ -1,0 +1,112 @@
+PASS: LiveContainer stand-in maps to the real group
+PASS: /var alias accepted
+PASS: plain group path unchanged
+PASS: stand-in outside Shared/AppGroup unchanged
+PASS: nested real group unchanged
+PASS: nil path
+PASS: token path gives the group root
+PASS: token for another container is ignored
+PASS: nested token path is ignored
+PASS: token path without Caches is ignored
+PASS: no token path
+PASS: 27.3 beta 1 not patched
+PASS: 27.3 beta 2 patched
+PASS: 27.3 later beta patched
+PASS: 27.3 release patched
+PASS: 27.4 patched
+PASS: iOS 28 patched
+PASS: 27.2.1 not patched
+PASS: 27.0.1 not patched
+PASS: iOS 26 not patched
+PASS: empty build not patched
+PASS: garbage build not patched
+PASS: create temp fixture
+PASS: write sentinel
+PASS: open no-link library
+PASS: begin cache swap
+PASS: nested contents preserved while swapped
+PASS: recover simulated interruption after symlink
+PASS: original bytes restored
+PASS: begin second swap
+PASS: simulate interruption before symlink
+PASS: recover absent caches
+PASS: bytes survive absent-path recovery
+PASS: begin conflict test
+PASS: simulate unexpected caches creator
+PASS: recovery refuses unexpected directory
+PASS: conflict retains preserved original
+PASS: recover after fixture conflict removed
+PASS: recovery idempotent
+PASS: simulate another app's Caches link
+PASS: a foreign link blocks token requests
+PASS: reset repairs a foreign link
+PASS: Caches is a folder again
+PASS: restore real Caches fixture
+PASS: begin reset conflict fixture
+PASS: new Caches beside the preserved one
+PASS: recovery refuses the conflict
+PASS: reset resolves the conflict
+PASS: token requests work after reset
+PASS: reset kept the original contents
+PASS: reset of a healthy cache does nothing
+PASS: restore sentinel fixture
+PASS: normal startup requires no recovery
+PASS: normal startup creates no lock or marker
+PASS: begin startup recovery fixture
+PASS: hold token-operation lock
+PASS: startup does not interfere with an active token query
+PASS: startup restores interrupted cache swap without a token query
+PASS: startup does not create an absent Library
+PASS: create zero-length marker fixture
+PASS: zero-length marker is discarded when Caches is intact
+PASS: invalid marker removed
+PASS: create partial marker fixture
+PASS: partial marker is discarded when Caches is intact
+PASS: create stale temporary marker
+PASS: begin cleans a stale temporary marker
+PASS: recover stale temporary marker fixture
+PASS: create second library fixture
+PASS: write second sentinel
+PASS: open second library
+PASS: begin second swap
+PASS: corrupt marker with preserved data
+PASS: invalid marker with preserved data fails closed
+PASS: preserved data retained
+PASS: create traversal fixture
+PASS: set traversal-only ancestor permissions
+PASS: no-follow walk does not require ancestor enumeration
+PASS: create lock fixture library
+PASS: write lock fixture sentinel
+PASS: lock link target
+PASS: open lock fixture library
+PASS: interrupted swap beside a bad lock
+PASS: symlink lock fixture
+PASS: normal lock requests stay fail-closed on a non-regular lock
+PASS: repair creates and locks a regular lock
+PASS: lock is a regular file again
+PASS: bad lock quarantined, not deleted
+PASS: symlink lock target never followed or changed
+PASS: reset after lock repair restores the preserved Caches
+PASS: token requests work after lock repair
+PASS: repair of a healthy lock does nothing
+PASS: create lock fixture library
+PASS: write lock fixture sentinel
+PASS: lock link target
+PASS: open lock fixture library
+PASS: interrupted swap beside a bad lock
+PASS: directory lock fixture
+PASS: directory lock content
+PASS: normal lock requests stay fail-closed on a non-regular lock
+PASS: repair creates and locks a regular lock
+PASS: lock is a regular file again
+PASS: bad lock quarantined, not deleted
+PASS: directory lock contents kept
+PASS: reset after lock repair restores the preserved Caches
+PASS: token requests work after lock repair
+PASS: repair of a healthy lock does nothing
+PASS: grammar rejects traversal and ambiguous empty components
+PASS: identity attribute gives its identifier line
+PASS: identity attribute without identifier gives nothing
+PASS: two identifier lines give nothing
+PASS: empty identifier gives nothing
+PASS: identifier with spaces gives nothing

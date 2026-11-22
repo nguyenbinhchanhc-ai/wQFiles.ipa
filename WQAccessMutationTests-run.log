@@ -1,0 +1,235 @@
+2026-11-22 12:38:34.129 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-127-1/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file
+2026-11-22 12:38:34.142 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-141-2/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file
+2026-11-22 12:38:34.146 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-144-3/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file
+2026-11-22 12:38:34.146 WQAccessMutationTests[1254:7135] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> OK
+2026-11-22 12:38:34.163 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/restore-target -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-163-4/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/restore-target
+2026-11-22 12:38:34.171 WQAccessMutationTests[1254:7135] [wqfiles] delete backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-163-4 -> OK
+2026-11-22 12:38:34.183 WQAccessMutationTests[1254:7135] [wqfiles] delete backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/2026-11-09 22.10.00 -> OK
+2026-11-22 12:38:34.186 WQAccessMutationTests[1254:7135] [wqfiles] delete backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/AppBackups/com.example.app/2026-11-09 22.00.00 -> OK
+2026-11-22 12:38:34.188 WQAccessMutationTests[1254:7135] [wqfiles] delete backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/AppBackups/com.example.app -> OK
+2026-11-22 12:38:34.191 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/stream-dest -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-190-5/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/stream-dest
+2026-11-22 12:38:34.202 WQAccessMutationTests[1254:7135] [wqfiles] create: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/stream-new from stream-source -> The source changed while it was being copied
+2026-11-22 12:38:34.220 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-219-7/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file
+2026-11-22 12:38:34.224 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-222-8/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file
+2026-11-22 12:38:34.227 WQAccessMutationTests[1254:7135] [wqfiles] /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file: in use by another process (SQLite set)
+2026-11-22 12:38:34.231 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-229-9/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file
+2026-11-22 12:38:34.238 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/large-patch -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-236-10/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/large-patch
+2026-11-22 12:38:34.246 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/search-only-parent/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-245-11/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/search-only-parent/file
+2026-11-22 12:38:34.250 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/search-only-parent/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-249-12/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/search-only-parent/file
+2026-11-22 12:38:34.250 WQAccessMutationTests[1254:7135] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/search-only-parent/file -> OK
+2026-11-22 12:38:34.268 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-267-13/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file
+2026-11-22 12:38:34.272 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-271-14/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file
+PASS: create temp fixture
+PASS: write temp file
+PASS: capture original identity
+PASS: conditional write succeeds
+PASS: overwrite retains durable backup
+PASS: backup maps to original and contains old bytes
+PASS: write keeps inode
+PASS: stale version rejects without truncation
+PASS: existing valid backup restores
+PASS: streamed self-write rejected
+PASS: backup storage overwrite refused without recursive backup
+PASS: backup storage delete refused
+PASS: regular delete retains durable backup
+PASS: write temp file
+PASS: write temp file
+PASS: restore write succeeds
+PASS: restore write reports its backup unit
+PASS: backup unit holds the replaced contents
+PASS: backup unit of a restore can be removed
+PASS: failed restore write reports no unit
+PASS: file backup root is protected
+PASS: app backup root is protected
+PASS: create app backup fixture
+PASS: write temp file
+PASS: app backup overwrite refused
+PASS: app backup delete refused
+PASS: app backup rename refused
+PASS: app backup create refused
+PASS: app backup mkdir refused
+PASS: write temp file
+PASS: app backup streamed create refused
+PASS: app backup local copy refused
+PASS: create file backup fixture
+PASS: write temp file
+PASS: file backup stamp is a deletable unit
+PASS: file backup root is not a unit
+PASS: file backup contents are not units
+PASS: write temp file
+PASS: a regular file with a unit name is not a unit (DR-07)
+PASS: create link unit fixture
+PASS: a link with a unit name is not a unit (DR-07)
+PASS: explicit file backup deletion succeeds
+PASS: create backup date fixture
+PASS: write temp file
+PASS: app backup date is a deletable unit
+PASS: app backup bundle is a deletable unit
+PASS: backup root cannot be deleted
+PASS: individual backup files cannot be deleted as a backup
+PASS: explicit backup date deletion succeeds
+PASS: create second backup date
+PASS: explicit bundle backup deletion succeeds
+PASS: write temp file
+PASS: write temp file
+PASS: write temp file
+PASS: streamed write rejects a source that changes during the copy
+PASS: write temp file
+PASS: write temp file
+PASS: streamed create removes a partial destination when the source changes
+PASS: write temp file
+PASS: write temp file
+PASS: backup I/O failure refuses the write
+PASS: backup I/O failure reports a specific reason
+PASS: write temp file
+PASS: write temp file
+PASS: write rejects pathname replacement after verification
+PASS: write temp file
+PASS: inject uncooperative same-inode write
+PASS: patch rejects same-inode change after backup
+PASS: write temp file
+PASS: inject target rename during finish
+PASS: write temp file
+PASS: target swap during finish reports failure
+PASS: rollback restores only pinned inode, not replacement
+PASS: hold cooperating writer lock
+PASS: mutation refuses another writer lock
+PASS: valid patch keeps size and remaining bytes
+PASS: out-of-range patch refused
+PASS: write large patch fixture
+PASS: large patch verifies only its changed range
+PASS: large patch keeps size and writes the final byte
+PASS: create temp FIFO
+PASS: FIFO reads return without blocking
+PASS: FIFO write refused
+PASS: directory read refused
+PASS: create final symlink fixture
+PASS: symlink mutation refused
+PASS: create search-only parent
+PASS: write temp file
+PASS: remove ancestor enumeration permission
+PASS: mutation needs search but not ancestor read-directory rights
+PASS: make disposable file read-only
+PASS: read-only regular file delete still backs up and succeeds
+PASS: write temp file
+PASS: inject version-race matrix write
+PASS: write/patch reject inode or version swap at both pre-write barriers
+PASS: write temp file
+PASS: write temp file
+PASS: write/patch reject inode or version swap at both pre-write barriers
+PASS: write temp file
+PASS: inject version-race matrix write
+PASS: write/patch reject inode or version swap at both pre-write barriers
+PASS: write temp file
+PASS: write temp file
+PASS: write/patch reject inode or version swap at both pre-write barriers
+PASS: write temp file
+PASS: inject version-race matrix write
+PASS: write/patch reject inode or version swap at both pre-write barriers
+PASS: write temp file
+PAS2026-11-22 12:38:34.276 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-276-15/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file
+2026-11-22 12:38:34.279 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-278-16/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file
+2026-11-22 12:38:34.290 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-288-17/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file
+2026-11-22 12:38:34.296 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-294-18/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file
+2026-11-22 12:38:34.305 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-304-19/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file
+2026-11-22 12:38:34.311 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-309-20/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file
+2026-11-22 12:38:34.319 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-317-21/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file
+2026-11-22 12:38:34.332 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-331-22/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/file
+2026-11-22 12:38:34.339 WQAccessMutationTests[1254:7135] [wqfiles] create: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/created (7 bytes) -> OK
+2026-11-22 12:38:34.339 WQAccessMutationTests[1254:7135] [wqfiles] create: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/created-from from stream-source -> OK
+2026-11-22 12:38:34.340 WQAccessMutationTests[1254:7135] [wqfiles] mkdir: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/new-dir -> OK
+2026-11-22 12:38:34.340 WQAccessMutationTests[1254:7135] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/new-dir -> Directory not empty (errno 66)
+2026-11-22 12:38:34.342 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/new-dir/child -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-341-23/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/new-dir/child
+2026-11-22 12:38:34.342 WQAccessMutationTests[1254:7135] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/new-dir/child -> OK
+2026-11-22 12:38:34.342 WQAccessMutationTests[1254:7135] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/new-dir -> OK
+2026-11-22 12:38:34.343 WQAccessMutationTests[1254:7135] [wqfiles] mkdir: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/real-dir -> OK
+2026-11-22 12:38:34.343 WQAccessMutationTests[1254:7135] [wqfiles] mkdir: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/symlink-target -> OK
+2026-11-22 12:38:34.343 WQAccessMutationTests[1254:7135] [wqfiles] create: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/symlink-target/target-file (6 bytes) -> OK
+2026-11-22 12:38:34.344 WQAccessMutationTests[1254:7135] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/dir-link -> OK
+2026-11-22 12:38:34.347 WQAccessMutationTests[1254:7135] [wqfiles] /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/live-db/analytics.sqlite: in use by another process (SQLite set)
+2026-11-22 12:38:34.347 WQAccessMutationTests[1254:7135] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/live-db/analytics.sqlite -> Another app is using this file and has locked it. Quit that app and try again.
+2026-11-22 12:38:34.348 WQAccessMutationTests[1254:7135] [wqfiles] /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/live-db/analytics.sqlite-wal: in use by another process (SQLite set)
+2026-11-22 12:38:34.348 WQAccessMutationTests[1254:7135] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/live-db/analytics.sqlite-wal -> Not changed: analytics.sqlite belongs to the same SQLite database and another app is using it. Its files are only changed together. Quit that app and try again.
+2026-11-22 12:38:34.350 WQAccessMutationTests[1254:7135] [wqfiles] /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/live-db/analytics.sqlite-wal: in use by another process (SQLite set)
+2026-11-22 12:38:34.352 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/live-db/other.sqlite-wal -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-351-24/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/live-db/other.sqlite-wal
+2026-11-22 12:38:34.352 WQAccessMutationTests[1254:7135] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/live-db/other.sqlite-wal -> OK
+2026-11-22 12:38:34.353 WQAccessMutationTests[1254:7135] [wqfiles] delete folder: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/live-db -> analytics.sqlite-wal: Not changed: analytics.sqlite belongs to the same SQLite database and another app is using it. Its files are only changed together. Quit that app and try again., 0 items removed (unit 20261122-123834-353-25)
+2026-11-22 12:38:34.356 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/live-db/analytics.sqlite-wal -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-354-26/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/live-db/analytics.sqlite-wal
+2026-11-22 12:38:34.356 WQAccessMutationTests[1254:7135] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/live-db/analytics.sqlite-wal -> OK
+2026-11-22 12:38:34.358 WQAccessMutationTests[1254:7135] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/live-db/analytics.sqlite -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/Backups/20261122-123834-357-27/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/live-db/analytics.sqlite
+2026-11-22 12:38:34.359 WQAccessMutationTests[1254:7135] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/live-db/analytics.sqlite -> OK
+2026-11-22 12:38:34.359 WQAccessMutationTests[1254:7135] [wqfiles] enumerate /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76/absent: base is missing (No such file or directory (errno 2))
+2026-11-22 12:38:34.361 WQAccessMutationTests[1254:7135] [wqfiles] enumerate /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76: dynamic inode limit unavailable; refusing to present a fixed-range partial scan as complete
+2026-11-22 12:38:34.366 WQAccessMutationTests[1254:7135] [wqfiles] enumerate /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMutationTests-E63C6B69-F9A6-4956-8D8F-05939F764E76: inode bound is too large to scan safely
+S: write temp file
+PASS: write/patch reject inode or version swap at both pre-write barriers
+PASS: write temp file
+PASS: inject version-race matrix write
+PASS: write/patch reject inode or version swap at both pre-write barriers
+PASS: write temp file
+PASS: write temp file
+PASS: write/patch reject inode or version swap at both pre-write barriers
+PASS: current and historical stamps accepted
+PASS: malformed stamp rejected
+PASS: malformed stamp rejected
+PASS: malformed stamp rejected
+PASS: malformed stamp rejected
+PASS: malformed stamp rejected
+PASS: malformed stamp rejected
+PASS: malformed stamp rejected
+PASS: malformed stamp rejected
+PASS: arbitrary stamp cannot supply restore path
+PASS: raw traversal restore path rejected
+PASS: write temp file
+PASS: verified write returns saved descriptor version
+PASS: saved write version belongs to verified contents
+PASS: repeat write does not require reopening
+PASS: verified patch returns reusable version
+PASS: repeat patch does not require reopening
+PASS: write temp file
+PASS: later external edit rejects old result version
+PASS: write temp file
+PASS: inject post-write concurrent contents
+PASS: post-write interference is not adopted or rolled back over
+PASS: write temp file
+PASS: inject post-write concurrent contents
+PASS: post-write interference is not adopted or rolled back over
+PASS: create_file succeeds through a parent descriptor
+PASS: create_file_from succeeds when the source is stable
+PASS: create_dir succeeds through a parent descriptor
+PASS: write temp file
+PASS: non-empty folder delete refused
+PASS: empty folder delete succeeds
+PASS: create real directory fixture
+PASS: create symlinked parent fixture
+PASS: create_file refuses a symlinked parent
+PASS: create_dir refuses a symlinked parent
+PASS: create_file rejects traversal grammar
+PASS: delete rejects traversal grammar
+PASS: create symlink target directory
+PASS: create symlink target file
+PASS: create directory symlink
+PASS: deleting a directory symlink removes only the link
+PASS: SQLite set base names
+PASS: databases are ordered before their -wal/-shm
+PASS: create SQLite set folder
+PASS: write temp file
+PASS: write temp file
+PASS: write temp file
+PASS: write temp file
+PASS: idle SQLite set is not in use
+PASS: another process holds the database lock
+PASS: the locked member of the set is named
+PASS: a locked database is refused with a readable reason, not errno 35
+PASS: the unlocked -wal of a database in use is not deleted
+PASS: write temp file
+PASS: the -wal of a database in use is not replaced
+PASS: no -journal is created next to a database in use
+PASS: other sets in the same folder are unaffected
+PASS: a folder delete stops before any file of a database in use
+PASS: the set is free once the app lets go
+PASS: an idle SQLite set is deleted normally
+PASS: missing enumeration base is failure, not empty success
+PASS: unavailable inode probe is failure, not silent fixed-range success
+PASS: explicit small bound still supports successful empty enumeration
+PASS: overflowing scan bound is rejected before work dispatch

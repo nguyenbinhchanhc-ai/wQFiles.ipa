@@ -1,0 +1,16 @@
+2026-11-22 12:38:36.703 WQAccessMeasureTests[1328:7317] [wqfiles] measure: cannot enumerate /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessMeasureTests-0BA6C8E7-FF95-43E1-B166-1984648EEF46/secret (Permission denied (errno 13))
+PASS: create temp tree
+PASS: create temp tree
+PASS: write temp file
+PASS: write temp file
+PASS: write temp file
+PASS: create symlink fixture
+PASS: known tree sums regular file sizes without following links
+PASS: missing tree is distinct from an empty one
+PASS: cancelled measurement is explicit
+PASS: create temp tree
+PASS: write temp file
+PASS: make subtree unreadable
+PASS: unreadable subtree marks the whole measurement limited
+PASS: limited measurement still reports the readable bytes
+All WQAccess measure regression tests passed.

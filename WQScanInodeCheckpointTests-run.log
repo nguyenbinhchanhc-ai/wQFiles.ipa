@@ -1,0 +1,3 @@
+2026-11-22 12:38:46.751 WQScanInodeCheckpointTests[1501:7872] [wqfiles] scan: resuming saved inode range at 32769
+PASS: resume merges hits without omission or double counting
+PASS: committed prefix is not re-executed

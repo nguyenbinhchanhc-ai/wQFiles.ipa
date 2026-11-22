@@ -1,0 +1,35 @@
+2026-11-22 12:38:44.558 WQScanRecoveryTests[1378:7565] [wqfiles] measure: resuming 835D7391-724D-465A-B648-6CD0ACB4C85C (1 directories remaining)
+PASS: resume after process termination
+PASS: completed root bytes reused, child counted once
+PASS: new process distinguishes interrupted from running
+PASS: refresh interruption retains previous result
+PASS: resume retains task identity
+PASS: completed result survives another process launch without a new scan
+PASS: user pause survives restart without auto-resume
+PASS: explicit resume retains paused task checkpoints
+2026-11-22 12:38:45.365 WQScanRecoveryTests[1373:7534] [wqfiles] Cannot save scan task /var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/835D7391-724D-465A-B648-6CD0ACB4C85C-write-failure; in-memory results retained
+PASS: launch isolated recovery process
+PASS: child exit: measure-crash
+PASS: launch isolated recovery process
+PASS: child exit: measure-resume
+PASS: explicit fresh task recomputes changed bytes
+PASS: replaced root rejects saved identity and byte count
+PASS: launch isolated recovery process
+PASS: child exit: task-crash
+PASS: launch isolated recovery process
+PASS: child exit: task-resume
+PASS: launch isolated recovery process
+PASS: child exit: task-completed
+PASS: launch isolated recovery process
+PASS: child exit: task-pause
+PASS: launch isolated recovery process
+PASS: child exit: task-paused-reopen
+PASS: second screen joins existing work
+PASS: explicit refresh cancels old generation
+PASS: obsolete worker cannot replace active results
+PASS: failed refresh preserves successful results
+PASS: write failure is visible while the in-memory task is retained
+PASS: successful final snapshot clears storage warning
+PASS: cancel can release a paused worker
+PASS: foreground releases scan gate
+All scan recovery tests passed.

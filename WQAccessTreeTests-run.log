@@ -1,0 +1,251 @@
+2026-11-22 12:38:35.582 WQAccessTreeTests[1316:7281] [wqfiles] purge: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/container/Library/Caches -> unsafe ancestry or inaccessible (Not a directory (errno 20))
+2026-11-22 12:38:35.584 WQAccessTreeTests[1316:7281] [wqfiles] purge: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/container/Library/missing -> unsafe ancestry or inaccessible (Not a directory (errno 20))
+2026-11-22 12:38:35.585 WQAccessTreeTests[1316:7281] [wqfiles] purge: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/container/Library -> unsafe ancestry or inaccessible (Not a directory (errno 20))
+2026-11-22 12:38:35.598 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/rename-source -> rename-destination: File exists (errno 17)
+2026-11-22 12:38:35.603 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/rename-source -> rename-destination: OK
+2026-11-22 12:38:35.604 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/rename-source -> directory-destination: File exists (errno 17)
+2026-11-22 12:38:35.604 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/rename-source -> link-destination: File exists (errno 17)
+2026-11-22 12:38:35.606 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-0 -> dst-0: OK
+2026-11-22 12:38:35.608 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-1 -> dst-1: File exists (errno 17)
+2026-11-22 12:38:35.609 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-2 -> dst-2: File exists (errno 17)
+2026-11-22 12:38:35.610 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-3 -> dst-3: File exists (errno 17)
+2026-11-22 12:38:35.611 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-4 -> dst-4: File exists (errno 17)
+2026-11-22 12:38:35.613 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-5 -> dst-5: File exists (errno 17)
+2026-11-22 12:38:35.614 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-6 -> dst-6: File exists (errno 17)
+2026-11-22 12:38:35.615 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-7 -> dst-7: File exists (errno 17)
+2026-11-22 12:38:35.616 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-8 -> dst-8: File exists (errno 17)
+2026-11-22 12:38:35.617 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-9 -> dst-9: File exists (errno 17)
+2026-11-22 12:38:35.618 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-10 -> dst-10: OK
+2026-11-22 12:38:35.619 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-11 -> dst-11: File exists (errno 17)
+2026-11-22 12:38:35.620 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-12 -> dst-12: File exists (errno 17)
+2026-11-22 12:38:35.621 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-13 -> dst-13: File exists (errno 17)
+2026-11-22 12:38:35.622 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-14 -> dst-14: File exists (errno 17)
+2026-11-22 12:38:35.623 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-15 -> dst-15: File exists (errno 17)
+2026-11-22 12:38:35.624 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-16 -> dst-16: File exists (errno 17)
+2026-11-22 12:38:35.625 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-17 -> dst-17: OK
+2026-11-22 12:38:35.626 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-18 -> dst-18: File exists (errno 17)
+2026-11-22 12:38:35.627 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-19 -> dst-19: File exists (errno 17)
+2026-11-22 12:38:35.627 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-20 -> dst-20: File exists (errno 17)
+2026-11-22 12:38:35.628 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-21 -> dst-21: File exists (errno 17)
+2026-11-22 12:38:35.629 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-22 -> dst-22: OK
+2026-11-22 12:38:35.629 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-23 -> dst-23: File exists (errno 17)
+2026-11-22 12:38:35.630 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-24 -> dst-24: OK
+2026-11-22 12:38:35.631 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-25 -> dst-25: OK
+2026-11-22 12:38:35.631 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-26 -> dst-26: OK
+2026-11-22 12:38:35.632 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-27 -> dst-27: File exists (errno 17)
+PASS: create temp tree
+PASS: create temp tree
+PASS: write temp sentinel
+PASS: create temp tree
+PASS: create symlinked Library
+PASS: symlinked purge ancestry fails closed
+PASS: unsafe ancestry not treated as missing success
+PASS: symlinked final purge target refused
+PASS: remove fixture symlink
+PASS: create temp tree
+PASS: write temp sentinel
+PASS: create child link to foreign tree
+PASS: safe purge removes nested children and leaves root
+PASS: purge unlinks child symlink without following it
+PASS: write temp sentinel
+PASS: canonical var alias accepted
+PASS: safe missing folder remains success
+PASS: write temp sentinel
+PASS: swap purge root after listing
+PASS: install foreign purge alias
+PASS: changed purge ancestry rejected before deleting listed child
+PASS: write temp sentinel
+PASS: write temp sentinel
+PASS: concurrent destination creator cannot be overwritten
+PASS: no-replace rename succeeds for absent destination
+PASS: write temp sentinel
+PASS: create temp tree
+PASS: rename preserves existing directory destination
+PASS: create rename symlink destination
+PASS: rename preserves existing symlink destination
+PASS: rename rejects special names
+PASS: create temp tree
+PASS: write temp sentinel
+PASS: cancelled purge leaves the tree intact
+PASS: write temp sentinel
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: wri2026-11-22 12:38:35.632 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-28 -> dst-28: File exists (errno 17)
+2026-11-22 12:38:35.633 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-29 -> dst-29: File exists (errno 17)
+2026-11-22 12:38:35.634 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-30 -> dst-30: File exists (errno 17)
+2026-11-22 12:38:35.634 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/src-31 -> dst-31: File exists (errno 17)
+2026-11-22 12:38:35.641 WQAccessTreeTests[1316:7281] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/tree-root/f2 -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/Backups/20261122-123835-638-1/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/tree-root/f2
+2026-11-22 12:38:35.642 WQAccessTreeTests[1316:7281] [wqfiles] delete folder: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/tree-root -> tree-root: The item was moved, replaced or changed after it was selected. It was left as it is., 1 items removed (unit 20261122-123835-638-1)
+2026-11-22 12:38:35.645 WQAccessTreeTests[1316:7281] [wqfiles] delete folder: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/nested-root -> sub: The item was moved, replaced or changed after it was selected. It was left as it is., 0 items removed (unit 20261122-123835-645-2)
+2026-11-22 12:38:35.646 WQAccessTreeTests[1316:7281] [wqfiles] delete folder: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/link-root -> child-link: The item was moved, replaced or changed after it was selected. It was left as it is., 0 items removed (unit 20261122-123835-646-3)
+2026-11-22 12:38:35.647 WQAccessTreeTests[1316:7281] [wqfiles] delete folder: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/empty-root -> empty-root: The item was moved, replaced or changed after it was selected. It was left as it is., 0 items removed (unit 20261122-123835-647-4)
+2026-11-22 12:38:35.648 WQAccessTreeTests[1316:7281] [wqfiles] delete folder: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/empty-root -> empty-root: The item was moved, replaced or changed after it was selected. It was left as it is., 0 items removed (unit 20261122-123835-648-5)
+2026-11-22 12:38:35.649 WQAccessTreeTests[1316:7281] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/empty-root/new -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/Backups/20261122-123835-648-6/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/empty-root/new
+2026-11-22 12:38:35.649 WQAccessTreeTests[1316:7281] [wqfiles] delete folder: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/empty-root -> OK, 1 items removed (unit 20261122-123835-648-6)
+2026-11-22 12:38:35.650 WQAccessTreeTests[1316:7281] [wqfiles] delete backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/Backups/20261112-180000-000-1 -> OK
+2026-11-22 12:38:35.650 WQAccessTreeTests[1316:7281] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/selected-link -> changed since it was selected
+2026-11-22 12:38:35.651 WQAccessTreeTests[1316:7281] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/selected-link -> changed before removal
+2026-11-22 12:38:35.651 WQAccessTreeTests[1316:7281] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/selected-link -> OK
+2026-11-22 12:38:35.652 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/ren-src -> ren-dst: changed since it was selected
+2026-11-22 12:38:35.652 WQAccessTreeTests[1316:7281] [wqfiles] rename/move: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/ren-src was replaced during the operation; put back
+2026-11-22 12:38:35.652 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/ren-src -> ren-dst: changed since it was selected
+2026-11-22 12:38:35.652 WQAccessTreeTests[1316:7281] [wqfiles] rename: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/ren-src -> ren-dst: OK
+2026-11-22 12:38:35.653 WQAccessTreeTests[1316:7281] [wqfiles] move: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/move-src -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/move-dest: changed since it was selected
+2026-11-22 12:38:35.654 WQAccessTreeTests[1316:7281] [wqfiles] rename/move: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/move-src was replaced during the operation; put back
+2026-11-22 12:38:35.654 WQAccessTreeTests[1316:7281] [wqfiles] move: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/move-src -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/move-dest: changed since it was selected
+2026-11-22 12:38:35.654 WQAccessTreeTests[1316:7281] [wqfiles] move: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/move-src -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/move-dest: OK
+2026-11-22 12:38:35.656 WQAccessTreeTests[1316:7281] [wqfiles] backup: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/regular-delete -> /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/Backups/20261122-123835-655-7/private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/regular-delete
+2026-11-22 12:38:35.657 WQAccessTreeTests[1316:7281] [wqfiles] delete: /private/var/folders/q2/p1t6rgxj5fj32g1dc7dmd49r0000gn/T/WQAccessTreeTests-FADBBC52-ECEB-49CC-83E5-B1AFF229E9D4/regular-delete -> The file changed after it was opened. Your edits were not written; reopen it and compare the changes.
+te racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: write temp sentinel
+PASS: write racing creator
+PASS: race preserves whichever destination wins exclusion
+PASS: create temp tree
+PASS: write temp sentinel
+PASS: write temp sentinel
+PASS: move selected root aside mid-delete
+PASS: create temp tree
+PASS: write temp sentinel
+PASS: write temp sentinel
+PASS: replacement link
+PASS: root replaced during progress: delete fails closed
+PASS: replacement tree untouched
+PASS: original's remaining child untouched
+PASS: only the removed original file was backed up
+PASS: create temp tree
+PASS: write temp sentinel
+PASS: move nested folder aside
+PASS: create temp tree
+PASS: write temp sentinel
+PASS: nested folder replacement fails closed
+PASS: create temp tree
+PASS: child link fixture
+PASS: remove link in window
+PASS: write temp sentinel
+PASS: replaced link entry is not removed without a backup
+PASS: create temp tree
+PASS: move empty root aside
+PASS: create temp tree
+PASS: replacement root is not removed
+PASS: create temp tree
+PASS: remove selected folder
+PASS: create temp tree
+PASS: write temp sentinel
+PASS: tree delete refuses a replaced selection
+PASS: tree delete with a current identity succeeds
+PASS: create temp tree
+PASS: write temp sentinel
+PASS: move unit aside
+PASS: create temp tree
+PASS: write temp sentinel
+PASS: backup unit replacement fails closed
+PASS: backup unit delete still works
+PASS: selected link fixture
+PASS: replace link
+PASS: replaced link is not deleted
+PASS: swap link for a pipe
+PASS: entry swapped right before unlink is kept
+PASS: current special entry deletes
+PASS: write temp sentinel
+PASS: remove selected source
+PASS: write temp sentinel
+PASS: rename refuses a replaced source
+PASS: move source aside in window
+PASS: write temp sentinel
+PASS: rename of a late replacement is put back
+PASS: rename with a current identity succeeds
+PASS: create temp tree
+PASS: write temp sentinel
+PASS: remove picked source
+PASS: write temp sentinel
+PASS: Move Here refuses a replaced source
+PASS: move source aside before move
+PASS: write temp sentinel
+PASS: move of a late replacement is put back
+PASS: move with a current identity succeeds
+PASS: write temp sentinel
+PASS: move regular aside after backup
+PASS: write temp sentinel
+PASS: regular delete keeps a post-backup replacement
